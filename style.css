@@ -70,7 +70,7 @@ body {
     /* float:right} */
 
   header {
-    background: orange;
+    background: white;
   }
   
   header>h1 {
@@ -79,7 +79,7 @@ body {
     margin-bottom: 0px;
     font-size: 48px;
     /* color: #eee; */
-    color:orange;
+    color:blue;
     text-align: left;
   }
   
